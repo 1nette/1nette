@@ -2,8 +2,8 @@
 <p align="center">Welcome to my GitHub page!<br>
     Name's Inna, I'm 21 and currently am a student from <b> Kharkiv, Ukraine</b>.</p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/ukraine.svg" width="15"/></a><b> Ukrainian </b>— Native<br>
-    <img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/united-kingdom.svg" width="15"/></a><b> English </b>— Upper-Intemediate<br>
+    <img src="https://github.com/1nette/1nette/blob/main/img/ukraine-flag-icon.svg" width="15"/></a><b> Ukrainian </b>— Native<br>
+    <img src="https://github.com/1nette/1nette/blob/main/img/united-states-flag-icon.svg" width="15"/></a><b> English </b>— Upper-Intemediate<br>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
